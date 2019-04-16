@@ -17,3 +17,5 @@ $ git push
 
 #Remove uncommeted changes for all the files using below command.
 $ git checkout -- .
+#revert commeted changes
+$ git revert f1e8e6f476324c73fdf72bf5375e54927b410805
