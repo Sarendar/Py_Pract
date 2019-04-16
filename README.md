@@ -35,3 +35,9 @@ $ git checkout development
 
 #To create new branch in Github interface
 git push --set-upstream origin development
+
+#merging branches merging files from developemnt to master branch.
+$ git merge development
+$ git pull
+
+
