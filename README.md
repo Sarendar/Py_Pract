@@ -26,3 +26,9 @@ $ git revert -n d556306b4f49712e1de88198211647ac5367e302
 
 #reset all reverted code from file.
 $ git reset --hard d556306b4f49712e1de88198211647ac5367e302
+
+#create new branch called development
+$ git branch development
+
+#checkout to other branch
+$ git checkout development
