@@ -15,3 +15,5 @@ $ git commit -m 'first version of test task' .
 $ git log
 $ git push
 
+#Remove uncommeted changes for all the files using below command.
+$ git checkout -- .
