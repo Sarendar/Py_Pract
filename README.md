@@ -32,3 +32,6 @@ $ git branch development
 
 #checkout to other branch
 $ git checkout development
+
+#To create new branch in Github interface
+git push --set-upstream origin development
